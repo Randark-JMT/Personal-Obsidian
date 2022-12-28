@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "ec66ebbd29891964",
+    "type": "split",
+    "children": [
+      {
+        "id": "42ebc17bea6cb42f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a4d147e81973439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa7808c5f305d2ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9fc5fbbd19cc3a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f3767686a40b1ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dac9b38d0620fb4f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3865feed34564ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7b63e39357da8d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5026054382324
+  },
+  "right": {
+    "id": "0e6151d035fe1b4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "35dc66224e17dfad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "921789b0c6b96a69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "748d48dd0601f011",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad9571128c8c00fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b54b6e517475da97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f3865feed34564ff",
+  "lastOpenFiles": [
+    "Index.md",
+    "About Qt in the project/关于 Signal 在 Pylance 中无法正确解析.md"
+  ]
+}
