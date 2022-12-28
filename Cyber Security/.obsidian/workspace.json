@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e4a70d848e2b6bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/Modules/Network Security/Nmap Advanced Port Scans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/Modules/Network Security/Nmap Basic Port Scans.md"
+                "file": "Try Hack Me/Modules/Network Security/Nmap Advanced Port Scans.md"
               }
             }
           },
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/Modules/Network Security/Nmap Basic Port Scans.md",
+                "file": "Try Hack Me/Modules/Network Security/Nmap Advanced Port Scans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/Modules/Network Security/Nmap Basic Port Scans.md",
+                "file": "Try Hack Me/Modules/Network Security/Nmap Advanced Port Scans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,11 +179,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ce75290f1a8644c",
+  "active": "4e4a70d848e2b6bc",
   "lastOpenFiles": [
+    "Try Hack Me/Modules/Network Security/Nmap Basic Port Scans.md",
     "Try Hack Me/Modules/Network Security/Nmap Live Host Discovery.md",
     "Try Hack Me/Learning Paths/Jr Penetration Tester TODO.md",
-    "Try Hack Me/Modules/Network Security/Nmap Basic Port Scans.md",
     "Try Hack Me/Modules/Network Security/Active Reconnaissance.md",
     "Try Hack Me/Modules/Network Security/Passive Reconnaissance.md",
     "Try Hack Me/Modules/Introduction to Offensive Security/Network Security.md",
