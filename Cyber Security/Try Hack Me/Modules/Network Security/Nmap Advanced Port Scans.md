@@ -7,7 +7,6 @@
 
 # Task 2 TCP Null Scan, FIN Scan, and Xmas Scan
 
-<<<<<<< HEAD
 介绍了三种类别的扫描手法：
 -   Null Scan，`-sN`
 -   FIN Scan，`-sF`
@@ -55,9 +54,7 @@ Nmap done: 1 IP address (1 host up) scanned in 9.21 seconds
 
 # Task 3 TCP Maimon Scan
 
-=======
 pass
->>>>>>> origin/main
 
 
 Task 4 TCP ACK, Window, and Custom Scan
