@@ -6,6 +6,8 @@
 [[Pyramid Of Pain]]
 [[Cyber Kill Chain]]
 [[Unified Kill Chain]]
+[[Diamond Model]]
+
 
 
 
