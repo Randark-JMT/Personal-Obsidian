@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,6 +166,7 @@
     "Try Hack Me/Learning Paths/Jr Penetration Tester.md",
     "Try Hack Me/Modules/Network Security/Nmap Live Host Discovery.md",
     "Try Hack Me/Modules/Network Security/Passive Reconnaissance.md",
+    "Try Hack Me/Modules/Introduction to Offensive Security/Network Security.md"
     "Try Hack Me/Modules/Introduction to Offensive Security/Network Security.md"
   ]
 }
