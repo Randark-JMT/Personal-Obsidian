@@ -54,12 +54,16 @@ Nmap done: 1 IP address (1 host up) scanned in 9.21 seconds
 
 # Task 3 TCP Maimon Scan
 
-pass
+介绍了如何使用`nmap`进行`TCP Maimon`扫描
+
+# Task 4 TCP ACK, Window, and Custom Scan
+
+介绍了如何进行基于`TCP ACK`的扫描、`TCP window`扫描，以及自定义的扫描
+![[Pasted image 20230102145915.png]]
+
+# Task 5 Spoofing and Decoys
 
 
-Task 4 TCP ACK, Window, and Custom Scan
-
-Task 5 Spoofing and Decoys
 
 Task 6 Fragmented Packets
 
