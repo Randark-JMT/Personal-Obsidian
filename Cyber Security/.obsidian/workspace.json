@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/Learning Paths/SOC Level 1.md",
+                "file": "Try Hack Me/Learn/Learning Paths/SOC Level 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/Modules/Cyber Defence Frameworks/MITRE.md",
+                "file": "Try Hack Me/Learn/Modules/Cyber Defence Frameworks/MITRE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e22ef50c546f460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Try Hack Me/Practice/Series/Breaking Windows/Blue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/Modules/Cyber Defence Frameworks/MITRE.md"
+                "file": "Try Hack Me/Practice/Series/Breaking Windows/Blue.md"
               }
             }
           },
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/Modules/Cyber Defence Frameworks/MITRE.md",
+                "file": "Try Hack Me/Practice/Series/Breaking Windows/Blue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/Modules/Cyber Defence Frameworks/MITRE.md",
+                "file": "Try Hack Me/Practice/Series/Breaking Windows/Blue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,17 +179,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10073433c6b62a4f",
+  "active": "3e22ef50c546f460",
   "lastOpenFiles": [
-    "Try Hack Me/Learning Paths/SOC Level 1.md",
-    "Try Hack Me/Modules/Cyber Defence Frameworks/MITRE.md",
-    "Try Hack Me/Modules/Cyber Defence Frameworks/Unified Kill Chain.md",
-    "Try Hack Me/Learning Paths/Jr Penetration Tester.md",
-    "Try Hack Me/Modules/Network Security/Nmap Advanced Port Scans.md",
-    "Try Hack Me/Modules/Network Security/Nmap Basic Port Scans.md",
-    "Try Hack Me/Modules/Burp Suite/Burp Suite - ntruder.md",
+    "Try Hack Me/Learn/Modules/Cyber Defence Frameworks/MITRE.md",
+    "Try Hack Me/Learn/Learning Paths/SOC Level 1.md",
+    "Try Hack Me/Learn/Modules/Cyber Defence Frameworks/Unified Kill Chain.md",
+    "Try Hack Me/Learn/Learning Paths/Jr Penetration Tester.md",
+    "Try Hack Me/Learn/Modules/Network Security/Nmap Advanced Port Scans.md",
+    "Try Hack Me/Learn/Modules/Network Security/Nmap Basic Port Scans.md",
+    "Try Hack Me/Learn/Modules/Burp Suite/Burp Suite - ntruder.md",
     "Try Hack Me/Events/Advent of Cyber 2022.md",
-    "Try Hack Me/Modules/Network Security/Active Reconnaissance.md",
-    "Try Hack Me/Modules/Network Security/Nmap Live Host Discovery.md"
+    "Try Hack Me/Learn/Modules/Network Security/Active Reconnaissance.md",
+    "Try Hack Me/Learn/Modules/Network Security/Nmap Live Host Discovery.md"
   ]
 }
