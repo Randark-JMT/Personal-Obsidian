@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "64ad37dd3c4d28f9",
+        "id": "415dab4629e94e1a",
         "type": "tabs",
         "children": [
           {
-            "id": "10073433c6b62a4f",
+            "id": "ecb84c536a34be63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/Learn/Learning Paths/Jr Penetration Tester.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fe8ce68eeea682d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Try Hack Me/Learn/Modules/Network Security/Nmap Advanced Port Scans.md",
+                "file": "Try Hack Me/Learn/Modules/Introduction to Pentesting/Principles of Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try Hack Me/Learn/Modules/Network Security/Nmap Advanced Port Scans.md"
+                "file": "Try Hack Me/Learn/Modules/Introduction to Pentesting/Principles of Security.md"
               }
             }
           },
@@ -71,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hashdump",
+                "query": "tag:#Defensive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try Hack Me/Learn/Modules/Network Security/Nmap Advanced Port Scans.md",
+                "file": "Try Hack Me/Learn/Modules/Introduction to Pentesting/Principles of Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try Hack Me/Learn/Modules/Network Security/Nmap Advanced Port Scans.md",
+                "file": "Try Hack Me/Learn/Modules/Introduction to Pentesting/Principles of Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,17 +154,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5fe8ce68eeea682d",
+  "active": "ecb84c536a34be63",
   "lastOpenFiles": [
-    "Try Hack Me/Learn/Learning Paths/Jr Penetration Tester.md",
-    "Try Hack Me/Practice/Series/Breaking Windows/Blue.md",
-    "Try Hack Me/Learn/Modules/Cyber Defence Frameworks/MITRE.md",
-    "Try Hack Me/Learn/Modules/Metasploit/Metasploit - Meterpreter.md",
+    "Try Hack Me/Learn/Modules/Cyber Defence Frameworks/Pyramid Of Pain.md",
+    "Try Hack Me/Learn/Modules/Introduction to Defensive Security/Security Operations.md",
     "Try Hack Me/Learn/Learning Paths/SOC Level 1.md",
     "Try Hack Me/Learn/Modules/Cyber Defence Frameworks/Unified Kill Chain.md",
-    "Try Hack Me/Learn/Modules/Network Security/Nmap Advanced Port Scans.md",
-    "Try Hack Me/Learn/Modules/Network Security/Nmap Basic Port Scans.md",
-    "Try Hack Me/Learn/Modules/Burp Suite/Burp Suite - ntruder.md",
-    "Try Hack Me/Events/Advent of Cyber 2022.md"
+    "Try Hack Me/Learn/Modules/Cyber Defence Frameworks/MITRE.md",
+    "Try Hack Me/Learn/Modules/Cyber Defence Frameworks/Junior Security Analyst Intro.md",
+    "Try Hack Me/Learn/Modules/Introduction to Pentesting/Principles of Security.md",
+    "Try Hack Me/Learn/Learning Paths/Introduction to Cyber Security.md",
+    "Try Hack Me/Learn/Modules/Introduction to Defensive Security/Intro to Digital Forensics.md",
+    "Try Hack Me/Learn/Modules/Intro to Defensive Security/Intro to Defensive Security.md"
   ]
 }
