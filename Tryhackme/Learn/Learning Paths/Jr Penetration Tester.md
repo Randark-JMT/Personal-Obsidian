@@ -1,4 +1,4 @@
-> #Path #TODO
+> #Path 
 
 # Introduction to Cyber Security
 #Basic 
@@ -45,3 +45,12 @@
 了解并利用漏洞
 [[Vulnerabilities 101]]
 [[Exploit Vulnerabilities]]
+
+# Privilege Escalation
+在Linux和Windows中实现权限提升
+[[What the Shell]]
+[[Linux Privilege Escalation]]
+[[Windows Privilege Escalation]]
+
+---
+![[THM-BPLOIS1STM.png]]

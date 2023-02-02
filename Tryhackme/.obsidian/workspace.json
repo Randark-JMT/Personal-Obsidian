@@ -4,27 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "415dab4629e94e1a",
+        "id": "c09c948679caba83",
         "type": "tabs",
         "children": [
           {
-            "id": "74c448fa982c15a8",
+            "id": "d01b070a9abc12f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me/Learn/Learning Paths/Jr Penetration Tester.md",
+                "file": "Learn/Learning Paths/Web Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "34f46a6c32ae9dff",
+            "id": "6ca8f35c0ac36b93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learn/Modules/Privilege Escalation/Linux Privilege Escalation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -56,7 +60,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learn/Modules/Privilege Escalation/Linux Privilege Escalation.md"
+              }
             }
           },
           {
@@ -65,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Network-Structure",
+                "query": "tag:#Privilege",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -102,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learn/Modules/Privilege Escalation/Linux Privilege Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learn/Modules/Privilege Escalation/Linux Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,17 +167,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34f46a6c32ae9dff",
+  "active": "6ca8f35c0ac36b93",
   "lastOpenFiles": [
-    "Try Hack Me/Learn/Modules/Vulnerability Research/Exploit Vulnerabilities.md",
-    "Try Hack Me/Learn/Learning Paths/Jr Penetration Tester.md",
-    "Try Hack Me/Learn/Modules/Vulnerability Research/Vulnerabilities 101.md",
-    "Try Hack Me/Learn/Modules/Network Security/Net Sec Challenge.md",
-    "Try Hack Me/Learn/Modules/Network Security/Nmap Advanced Port Scans.md",
-    "Try Hack Me/Learn/Modules/Network Security/Protocols and Servers 2.md",
-    "Try Hack Me/Learn/Modules/Network Security/Protocols and Servers.md",
-    "Try Hack Me/Learn/Modules/Network Security/Nmap Post Port Scans.md",
-    "Try Hack Me/Learn/Modules/Introduction to Web Hacking/Cross-site Scripting.md",
-    "Try Hack Me/Practice/Series/Breaking Windows/Active Directory Basics.md"
+    "Learn/Modules/Introduction to Web Hacking/Subdomain Enumeration.md",
+    "Learn/Learning Paths/Jr Penetration Tester.md",
+    "Events/Advent of Cyber 2022.md",
+    "Learn/Modules/Privilege Escalation/Windows Privilege Escalation.md",
+    "Learn/Modules/Introduction to Web Hacking/Authentication Bypass.md",
+    "Learn/Modules/Privilege Escalation/Linux Privilege Escalation.md",
+    "Learn/Modules/Privilege Escalation/What the Shell.md",
+    "Learn/Modules/Web Hacking Fundamentals/OWASP Top 10.md",
+    "Learn/Modules/Cyber Defence Frameworks/Pyramid Of Pain.md",
+    "Learn/Modules/Introduction to Web Hacking/Content Discovery.md"
   ]
 }

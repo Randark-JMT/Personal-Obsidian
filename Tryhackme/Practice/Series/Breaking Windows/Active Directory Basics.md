@@ -1,5 +1,5 @@
 > https://tryhackme.com/room/activedirectorybasics
-> #Offensive #Active-Directory
+> #Offensive #Active-Directory #Practice
 
 # Task 1 Introduction
 

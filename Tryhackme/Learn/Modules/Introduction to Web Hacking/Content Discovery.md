@@ -12,7 +12,7 @@
 
 # Task 3 Manual Discovery - Favicon
 
-这个比较实用，
+这个比较实用，通过框架的图标来识别框架
 ```shell
 # 获取框架icon的哈希
 curl https://static-labs.tryhackme.cloud/sites/favicon/images/favicon.ico | md5sum
